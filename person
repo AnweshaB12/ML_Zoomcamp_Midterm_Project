@@ -1,0 +1,16 @@
+{
+    "sex": "female",
+    "age": 32,
+    "height": 158,
+    "overweight_obese_family": "no",
+    "consumption_of_fast_food": "no",
+    "frequency_of_consuming_vegetables": "sometimes",
+    "number_of_main_meals_daily": 2,
+    "food_intake_between_meals": "usually",
+    "smoking": "no",
+    "liquid_intake_daily": "1-2L",
+    "calculation_of_calorie_intake": "no",
+    "physical_exercise": "1-2days",
+    "schedule_dedicated_to_technology": "3-5hrs",
+    "type_of_transportation_used": "walking"
+}
