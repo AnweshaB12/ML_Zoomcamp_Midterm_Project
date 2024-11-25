@@ -1,5 +1,4 @@
 # ML_Zoomcamp_Midterm_Project
-ML Zoomcamp Midterm Project on Weight Class Prediction
 
 ML ZOOMCAMP MIDTERM PROJECT: WEIGHT CLASS PREDICTION
 
@@ -18,7 +17,7 @@ Overview of Classifiers Used
 	3.	Support Vector Machine (SVM): SVM finds the hyperplane that best separates classes in the feature space. It is effective for high-dimensional data but can be computationally expensive for large datasets.
 	4.	K-Nearest Neighbors (KNN): This model classifies a sample based on the majority class of its nearest neighbors. It is simple and effective but can struggle with high-dimensional data and imbalanced datasets.
 
-I used the above algorithms to train and cross-validate my data and then test the results in a Jupyter Notebook environment (Midterm_Project.ipynb) where I have performed exploratory data analysis to see which features have bigger impacts on the weight class (target).
+I used the above multiclass classification algorithms to train and cross-validate my data and then test the results in a Jupyter Notebook environment (Midterm_Project.ipynb) where I have performed exploratory data analysis to see which features have bigger impacts on the weight class (target).
 
 Results
 
